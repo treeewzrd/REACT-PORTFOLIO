@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'EFT-CHEATER-TRACKER',
+      description: 'HTML/CSS/JavaScript',
+      link: "https://github.com/treeewzrd/EFT-CHEATER-TRACKER",
+      repo: "https://github.com/treeewzrd/EFT-CHEATER-TRACKER"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'PICKFORD & LACE',
+      description: 'MERN/JavaScript/CSS',
+      link: "https://github.com/treeewzrd/PICKFORD-LACE",
+      repo: "https://github.com/treeewzrd/PICKFORD-LACE"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'EMPLOYEE TRACKER',
+      description: 'Typscript',
+      link: "https://github.com/treeewzrd/EMPLOYEE-TRACKER",
+      repo: "https://github.com/treeewzrd/EMPLOYEE-TRACKER"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: '4-DAY-FORECAST',
+      description: 'CSS/Typescript/JavaScript/HTML',
+      link: "https://github.com/treeewzrd/4-DAY-FORECAST",
+      repo: "https://github.com/treeewzrd/4-DAY-FORECAST"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'ADD-VEHICLE',
+      description: 'Typescript',
+      link: "https://github.com/treeewzrd/ADD-VEHICLE",
+      repo: "https://github.com/treeewzrd/ADD-VEHICLE"
     },
   ]);
 
