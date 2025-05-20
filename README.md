@@ -4,7 +4,7 @@ Welcome to my professional portfolio built with React! Explore my projects, skil
 
 ---
 
-## 🚀 [View Live on Netlify](#) <!-- Replace # with your Netlify link -->
+## 🚀 [View Live on Netlify](https://treewzrd-portfolio.netlify.app/) 
 
 ---
 
